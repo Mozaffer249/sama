@@ -18,12 +18,12 @@ const Contact: React.FC = () => {
       details: ['+249 12 498 6094', '+974 3033 3991'],
       color: 'from-green-500 to-green-600'
     },
-    // {
-    //   icon: Mail,
-    //   title: 'البريد الإلكتروني',
-    //   details: ['info@sama-research.qa', 'contact@sama-research.qa'],
-    //   color: 'from-blue-500 to-blue-600'
-    // },
+    {
+      icon: Mail,
+      title: 'البريد الإلكتروني',
+      details: ['Info@srcst-edu.com', 'contact@sama-research.qa'],
+      color: 'from-blue-500 to-blue-600'
+    },
     {
       icon: MapPin,
       title: 'العنوان',

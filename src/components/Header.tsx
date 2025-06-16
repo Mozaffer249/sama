@@ -15,7 +15,7 @@ const Header: React.FC = () => {
 
   const navItems = [
     { name: 'الرئيسية', href: '#home' },
-    // { name: 'من نحن', href: '#about' },
+    // { name: 'من نحن', href: '#about' },s
     { name: 'خدماتنا', href: '#services' },
     { name: 'قيمنا', href: '#values' },
     { name: 'اتصل بنا', href: '#contact' },

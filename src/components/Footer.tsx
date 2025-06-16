@@ -78,10 +78,10 @@ const Footer: React.FC = () => {
                 <Phone className="h-5 w-5 text-primary-400" />
                 <span className="text-gray-300 font-arabic">+974 3033 3991</span>
               </div>
-              <div className="flex items-center space-x-3 space-x-reverse">
+              {/* <div className="flex items-center space-x-3 space-x-reverse">
                 <Mail className="h-5 w-5 text-primary-400" />
                 <span className="text-gray-300 font-arabic">info@sama-research.qa</span>
-              </div>
+              </div> */}
               <div className="flex items-start space-x-3 space-x-reverse">
                 <MapPin className="h-5 w-5 text-primary-400 mt-1" />
                 <span className="text-gray-300 font-arabic">
